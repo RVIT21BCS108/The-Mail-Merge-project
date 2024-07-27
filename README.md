@@ -1,1 +1,1 @@
-# The-Mail-Merge-project
+Ths is a project that uses different techniques of files to replace the name to whom a letter is being sent to in a predefined lettter format and downloads text documents of the different letter to whom it is being sent to.
